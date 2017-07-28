@@ -1,0 +1,17 @@
+{
+ "name": "C5 Instructor Manual",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "2478d828-6fdd-7e29-741c-66042761626c",
+   "pageId": "d5e191d8-fc6d-792b-4c31-602e75ca2f3f",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "b4871630-d655-dce9-2bab-281821aab0e5",
+   "pageId": "7133d3ea-21cc-0da8-5db0-95dd713b872c",
+   "type": "page"
+  }
+ ]
+}
