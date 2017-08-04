@@ -2,16 +2,76 @@
  "name": "C5 Instructor Manual",
  "children": [
   {
-   "title": "Page 1",
+   "title": " ",
    "id": "2478d828-6fdd-7e29-741c-66042761626c",
-   "pageId": "d5e191d8-fc6d-792b-4c31-602e75ca2f3f",
-   "type": "page"
+   "type": "page",
+   "pageId": "d5e191d8-fc6d-792b-4c31-602e75ca2f3f"
   },
   {
-   "title": "Page 2",
+   "title": "How To Use This Manual",
+   "id": "cc3de230-b33f-6a96-84b5-cbe7d0c06f70",
+   "type": "page",
+   "pageId": "ed68d180-0696-b1e7-e9e8-a896e36e82ae"
+  },
+  {
+   "title": "Module Overview- Prerequisites and Objectives",
+   "id": "22a915a7-5fa1-0d16-5074-9a00d794e898",
+   "type": "page",
+   "pageId": "a8915326-a560-a864-536a-a3e96bf82000"
+  },
+  {
+   "title": "Course Structure",
+   "id": "691c8157-814d-02c0-9cb8-5e4ec10f5bf2",
+   "type": "page",
+   "pageId": "60f16fbc-2e61-3b91-2dd8-1dbf7a95504f"
+  },
+  {
+   "title": "Instructional Elements",
+   "id": "9955190e-4bf4-2359-496b-330d01bc2507",
+   "type": "page",
+   "pageId": "efe2edb5-c1ec-0e3a-8eae-02a4f9c3e278"
+  },
+  {
+   "title": "Working With Labs",
+   "id": "9e54f9b0-5d66-d918-fe2c-1d5b4b10828f",
+   "type": "page",
+   "pageId": "eaeba2f8-8ab3-22f7-8257-98e2e3ba22f2"
+  },
+  {
+   "title": "Working with Assessments",
+   "id": "7fb807f7-e53d-9b0e-15f5-58450d2cc717",
+   "type": "page",
+   "pageId": "ab28832a-9729-bb36-9dd4-90fabe5c06c4"
+  },
+  {
+   "title": "Overview of Unit 1: Symmetric Key Cryptography",
+   "id": "723ca5e6-a805-e90f-0c58-46d63735c068",
+   "type": "page",
+   "pageId": "ef10fa77-d29a-1d4e-1cd2-c04fee4459db"
+  },
+  {
+   "title": "Overview of Unit 2: Public Key Cryptography",
+   "id": "b7cd3138-b14c-16d4-9e0c-b0133adeb99e",
+   "type": "page",
+   "pageId": "9ebe6ecc-4a5f-9850-e5b5-bdaaa2c01ff3"
+  },
+  {
+   "title": "Overview of Unit 3: Hash Functions",
+   "id": "0709660b-3aa0-c2be-d926-6bb9d4098cf4",
+   "type": "page",
+   "pageId": "4bb399fe-a69d-6cb5-d655-03250e9d03b2"
+  },
+  {
+   "title": "Overview of Unit 4: Digital  Signatures and PKI",
+   "id": "3bf24384-8e01-05d1-4aa5-17eabdd0ad4b",
+   "type": "page",
+   "pageId": "083e6c23-68f8-5bed-49a6-c32cc2fecc35"
+  },
+  {
+   "title": " ",
    "id": "b4871630-d655-dce9-2bab-281821aab0e5",
-   "pageId": "7133d3ea-21cc-0da8-5db0-95dd713b872c",
-   "type": "page"
+   "type": "page",
+   "pageId": "7133d3ea-21cc-0da8-5db0-95dd713b872c"
   }
  ]
 }
