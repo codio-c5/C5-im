@@ -1,12 +1,12 @@
 ## The Units of Applied Cryptography
 ### This module has for units:
 
-1.	Symmetric Key Cryptography
-2.	Public Key Cryptography
-3.	Hash Functions
-4.	Digital Signatures and PKI
-
-### The objectives for each unit are described below.  Where applicable, learning objectives are mapped to the standards outline on the previous page.
+### 1.	Symmetric Key Cryptography
+### 2.	Public Key Cryptography
+### 3.	Hash Functions
+### 4.	Digital Signatures and PKI
+<br>
+ The objectives for each unit are described below.  Where applicable, learning objectives are mapped to the standards outline on the previous page.
 
 ## Unit 1: Symmetric Key Cryptography
 ### Learning Objectives:

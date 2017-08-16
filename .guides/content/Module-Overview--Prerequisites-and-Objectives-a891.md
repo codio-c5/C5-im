@@ -1,11 +1,11 @@
 <br>
 ## Overview
-### This module explores practical aspects of cryptography including both concepts and techniques.  It ties each concept back to how these are used to achieve the major pillars of information security including confidentiality, integrity, authenticity, and non-repudiation.
+### The Applied Cryptography module explores practical aspects of cryptography including both concepts and techniques.  It ties each concept back to how these are used to achieve the major pillars of information security including confidentiality, integrity, authenticity, and non-repudiation.
 
 <br>
-It describes the concepts and explores hands-on the processes involved in symmetric and asymmetric encryption, key agreement, hashing functions, digital signatures and PKI. It discusses the strengths and limitations of each method and how the approaches continue to evolve as cryptogaphy becomes more sophisticated. 
+It describes the concepts and explores hands-on the processes involved in symmetric and asymmetric encryption, key agreement, hashing functions, digital signatures and PKI. It discusses the strengths and limitations of each method and how the approaches continue to evolve as cryptography becomes more sophisticated. 
 
-## The Applied Cryptography Module 
+## Inside the Module 
 Applied Cryptography is the first of eight modules in the C5 curriculum.  Each module is intended to cover 4-6 contact hours of learning. The Applied Cryptography module has four units, each unit  roughly representing 1 to 1.5 contact hours.  Roughly, one class period plus the supporting homework or exercises. 
 
 **Module Objectives:** Identify existing cybersecurity concerns, including risks, threats, and vulnerabilities, and discuss potential options and the associated tradeoffs that address these issues with the Internet and the systems built on it.

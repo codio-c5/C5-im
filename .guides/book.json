@@ -32,10 +32,16 @@
    "pageId": "efe2edb5-c1ec-0e3a-8eae-02a4f9c3e278"
   },
   {
-   "title": "Working With Labs",
+   "title": "Working with Labs",
    "id": "9e54f9b0-5d66-d918-fe2c-1d5b4b10828f",
    "type": "page",
    "pageId": "eaeba2f8-8ab3-22f7-8257-98e2e3ba22f2"
+  },
+  {
+   "title": "Working with Hackathons",
+   "id": "7dac44f5-ecff-2c09-dbad-27448fba602c",
+   "type": "page",
+   "pageId": "804007f2-7dc3-a3f2-89f9-ac55b800887c"
   },
   {
    "title": "Working with Assessments",
@@ -44,25 +50,7 @@
    "pageId": "ab28832a-9729-bb36-9dd4-90fabe5c06c4"
   },
   {
-   "title": "Overview of Unit 1: Symmetric Key Cryptography",
-   "id": "723ca5e6-a805-e90f-0c58-46d63735c068",
-   "type": "page",
-   "pageId": "ef10fa77-d29a-1d4e-1cd2-c04fee4459db"
-  },
-  {
-   "title": "Overview of Unit 2: Public Key Cryptography",
-   "id": "b7cd3138-b14c-16d4-9e0c-b0133adeb99e",
-   "type": "page",
-   "pageId": "9ebe6ecc-4a5f-9850-e5b5-bdaaa2c01ff3"
-  },
-  {
-   "title": "Overview of Unit 3: Hash Functions",
-   "id": "0709660b-3aa0-c2be-d926-6bb9d4098cf4",
-   "type": "page",
-   "pageId": "4bb399fe-a69d-6cb5-d655-03250e9d03b2"
-  },
-  {
-   "title": "Overview of Unit 4: Digital  Signatures and PKI",
+   "title": "Test Item File (to come)",
    "id": "3bf24384-8e01-05d1-4aa5-17eabdd0ad4b",
    "type": "page",
    "pageId": "083e6c23-68f8-5bed-49a6-c32cc2fecc35"

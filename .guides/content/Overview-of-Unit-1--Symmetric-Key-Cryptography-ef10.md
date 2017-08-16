@@ -1,1 +1,0 @@
-# Sample content Unit 1: Symmetric Key Cryptography Overview
