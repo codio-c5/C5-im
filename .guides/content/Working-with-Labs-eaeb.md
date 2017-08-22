@@ -11,7 +11,7 @@ Codio's CreatorSpace Labs provide students with a hands-on experience that is ti
 
 Each lab starts with a guided step by step example for students to follow. After, students are encouraged to experiment further on their own.
 
-Last, each lab concludes with a Lab Check in where students answer two series of questions about what they learned. The first are auto-graded questions that check for knowledge gained.  The second are critical thinking questions that encourage students to apply and evaluate what they have learned.
+Last, each lab concludes with a Lab Check In where students answer two series of questions about what they learned. The first are auto-graded questions that check for knowledge gained.  The second are critical thinking questions that encourage students to apply and evaluate what they have learned.
 
 # The Labs by Unit
 
