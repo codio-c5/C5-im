@@ -22,17 +22,17 @@ Last, each lab concludes with a Lab Check In where students answer two series of
 **On their own:** Students can put in their own phrases to encrypt and decrypt messages.
 
 **Lab 1.2: The ROTn Shift Cipher**
-1.2: *Describe attack scenarios against an encryption algorithm;* 1.3: *Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data.* 
+**Learning Objective(s) covered:** 1.2: *Describe attack scenarios against an encryption algorithm;* 1.3: *Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data.* 
 **Lab work:** In this lab, students work backwards from the encrypted text of Lab 1.  They enter the ciphertext, and use an algorithm to display all of the possible solutions.
-**On their own:** Students can put in their own ciphertext from Lab 1 and run analysis on it.  Instructors can give students other ciphertext strings (using the shift from lab 1) to analyze, or students can swap ciphertext strings.
+**On their own:** Students can put in their own ciphertext from Lab 1 and run analysis on it.  Instructors can give students other ciphertext strings (using the shift from lab 1) to analyze, or students can swap ciphertext strings to decrypt.
 
 **Lab 1.3: Substitution Ciphers**
-1.3: *Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data.* 
+**Learning Objective(s) covered:** 1.3: *Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data.* 
 **Lab work:** In this lab, students manipulate an alphabet to create different substitution keys. They then encrypt and decrypt different phrases using the substitution key(s) they create.
 **On their own:** Students can put in their own plaintext and run it through different substitution keys.  Instructors can give students other ciphertext strings or substitution keys to analyze, or students can swap ciphertext strings and substitution keys.
 
 **Lab 1.4: Frequency Analysis**
-1.2: *Describe attack scenarios against an encryption algorithm.*
+**Learning Objective(s) covered:** 1.2: *Describe attack scenarios against an encryption algorithm.*
 **Lab work:** In this lab, students calculate frequencies of letters, digrams, and trigrams to apply frequency analysis techniques.
 **On their own:** Students can analyze different ciphertexts or plaintexts to explore patterns.
 
@@ -43,7 +43,7 @@ Last, each lab concludes with a Lab Check In where students answer two series of
 **On their own:** Students can practice sharing their public keys with other students and exchanging encrypted messages with them.
 
 **Lab 2.2: Key Agreement (Exchange)**
-2.3: *Explain the use of key exchange/agreement protocols in cryptography;* 2.2: *Explain the difference between symmetric and asymmetric encryption and the need for public key cryptography.*  
+**Learning Objective(s) covered:** 2.3: *Explain the use of key exchange/agreement protocols in cryptography;* 2.2: *Explain the difference between symmetric and asymmetric encryption and the need for public key cryptography.*  
 **Lab work:** In this lab, students learn more about the math behind public key encryption.  They work with a partner or as small groups to generate a key pair, exchange public keys, and create a session key. They then exchange messages and use the session key to encrypt and decrypt messages to each other.
 **On their own:** Students can practice modular arithmetic by working through different key exchanges with other partners or groups.
 

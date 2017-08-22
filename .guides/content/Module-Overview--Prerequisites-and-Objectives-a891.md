@@ -10,7 +10,7 @@ Applied Cryptography is the first of eight modules in the C5 curriculum.  Each m
 
 **Module Objectives:** Identify existing cybersecurity concerns, including risks, threats, and vulnerabilities, and discuss potential options and the associated tradeoffs that address these issues with the Internet and the systems built on it.
 
-**Prerequisite Knowledge:** Good understanding of the main tenets of information security: CIA (confidentiality, integrity, availability), authentication, non-repudiation. 
+**Prerequisite Knowledge:** Good understanding of the main tenets of information security: CIA (confidentiality, integrity, availability), authentication, and non-repudiation. 
 
 ## Alignment to Common Standards
 **NSA/DHS CAE Knowledge Units for Intro to Cryptography**

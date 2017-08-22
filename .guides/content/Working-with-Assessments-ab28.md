@@ -19,7 +19,7 @@ After the pilot period, the module will also have a test item file as a part of 
  - **Unit Check In:**  A set of auto-graded assessment items that cover the unit's objective domain.
  - **Points to Ponder:**  Open-ended critical thinking questions that require the teacher to grade.
  - **Check Your Memory:**  A set of auto-graded assessment items that review key concepts presented in prior units.
- - **Growth Hacks:** Are critical thinking questions related to the topic. Growth Hacks are not auto graded and need to be checked/assessed by the instructor.
+ - **Growth Hacks:** Are critical thinking questions related to the topic. Growth Hacks are not auto graded and need to be reviewed and assessed by the instructor.
   
   ## Assessment Types
 Codio offers a a rich set of assessment types, and instructors have the option to use the items Codio provides, or to author their own items to further tailor the learning experience for their students. 
@@ -32,10 +32,10 @@ Codio offers a a rich set of assessment types, and instructors have the option t
 
 ### Codio supports the following asssessment types:
  
- **Multiple Choice:** The multiple choice family includes multiple choice, multiple multiple choice, and true/false questions.  The interface allows you to specify how many possible answers you want, and how many correct answers are needed. They are auto-graded.
+ **Multiple Choice:** The multiple choice family includes **multiple choice, multiple multiple choice,** and **true/false** questions.  The interface allows you to specify how many possible answers you want, and how many correct answers are needed. They are auto-graded.
  
- **Fill in the Blank:** The fill in the blank family includes fill in the blank and matching. The interface allows you to specify whether students fill in a blank line with a specific response, or if they select an option from a dropdown list of possible responses. They are auto-graded.
+ **Fill in the Blank:** The fill in the blank family includes **fill in the blank** and **matching** questions. The interface allows you to specify whether students fill in a blank line with a specific response, or if they select an option from a dropdown list of possible responses. They are auto-graded.
  
   **Free Text:** Free text answers enable students to respond in their own words.  They are used as critical thinking questions in Growth Hacks and Points to Ponder. They are NOT auto-graded.
 
-  **Code Test:** The code test family includes standard code test and advanced code test. The interface allows you to specify pre-exec commands and commands. They are auto-graded.
+  **Code Test:** The code test family includes **standard code test** and **advanced code test.** The interface allows you to specify pre-exec commands and commands. They are auto-graded.

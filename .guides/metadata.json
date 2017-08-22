@@ -15,7 +15,13 @@
   {
    "id": "ed68d180-0696-b1e7-e9e8-a896e36e82ae",
    "title": "How To Use This Manual",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/How-To-Use-This-Manual-ed68.md",
