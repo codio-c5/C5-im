@@ -35,3 +35,4 @@ The Hackathons here also seek to inspire instructors to create their own student
 **On their own:** Students can explore more about RSA online.
 
 ### Unit 3 and 4 have no Hackathons
+Piloters:  We'd love your ideas!

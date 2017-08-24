@@ -11,7 +11,7 @@
 ## Unit 1: Symmetric Key Cryptography
 ### Learning Objectives:
 ***Upon completion of Unit 1, students will be able to***
-1.1	Define encryption, decryption, plaintext, ciphertext, and encryption/decryption key, and explain their use in cryptography. ***(AP CSP 6.3.1K)*** 
+1.1	Define encryption, decryption, plaintext, ciphertext, and encryption/decryption key, and explain their use in cryptography. ***(AP CSP 6.3.1.K)*** 
 1.2	Describe attack scenarios against an encryption algorithm.
 1.3	Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data by hand. ***(AP CSP 6.3.1.I)***
 1.4	Identify commonly used algorithms for symmetric encryption. ***(AP CSP 6.3.1.H, 6.3.1.J)***
@@ -22,7 +22,7 @@
 ### Learning Objectives:
 ***Upon completion of Unit 2, students will be able to***
 
-2.1	Explain how asymmetric (public key) encryption works. ***(AP CSP 6.3.1L, IAS/Cryptography LO 1)***
+2.1	Explain how asymmetric (public key) encryption works. ***(AP CSP 6.3.1.L, IAS/Cryptography LO 1)***
 2.2	Explain the difference between symmetric and asymmetric encryption and the need for public key cryptography. ***(AP CSP 6.3.1L, CAE Crypto 02, IAS/Cryptography LO 1)***
 2.3	Explain the use of key exchange/agreement protocols in cryptography. ***(IAS/Cryptography LO 8, IAS/Cryptography LO 1)***
 2.4	Identify commonly used algorithms for asymmetric encryption. ***(AP CSP 6.3.1.H, 6.3.1.J)***
@@ -43,7 +43,7 @@ Upon completion of Unit 3, students will be able to***
 Upon completion of Unit 4, students will be able to***
 
 4.1	Explain the mechanisms used for digital signatures. **(CAE Crypto 03, IAS/Cryptography LO 1)**
-4.2	Explain the role of digital certificates and certificate authorities in secure communications. **(AP CSP 6.3.1M, IAS/Cryptography LO 4)**
+4.2	Explain the role of digital certificates and certificate authorities in secure communications. **(AP CSP 6.3.1.M, IAS/Cryptography LO 4)**
 4.3	Illustrate how digital signatures work using software such as Kryptos. **(CAE Crypto 03)**
 
 

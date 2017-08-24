@@ -4,17 +4,17 @@
 
 
 ||| growthhack
-**Growth Hacks:**  Contain thought experiment content with critical thinking questions related to the topic. Growth Hacks are not auto graded and need to be reviewed and assessed by the instructor.
+**Growth Hacks:** Designed to get students engaged in the issues, Growth Hacks are thought experiments for students with critical thinking questions related to the topic.
 |||
 
 ||| meetups
 **Meetups:**  Problem-solving or synthesis discussion questions that ideal for small group interaction and presentation of findings to the larger group. 
 
-**Example:** *Divide into pairs and small groups. Brainstorm for five minute about creative ways to make a secure channel in your school.  Share your ideas with the class.*
+**Example:** *Divide into pairs and small groups. Brainstorm for five minutes about creative ways to make a secure channel in your school.  Share your ideas with the class.*
 |||
  
 |||definition
-**Definition:**  Provides a definition of key terms. 
+**Definition:**  Highlights definitions of key terms. 
 |||
 
 |||create
@@ -22,7 +22,8 @@
 
 Labs offer step by step guidance, then pose **Your Turn** extensions for further student inquiry. 
 
-Each lab includes a **Lab Check In** and a **Growth Hack** section.  The former is the workbook space for the students to complete their lab experience and check their understanding.  The latter provides  a critical thinking exploration of key lab points.  
+Each lab includes a **Lab Check In** and a **Growth Hack** section.  The former is the workbook space for the students to complete their lab experience and check their understanding.  The latter provides  a critical thinking exploration of key lab points.
+
 Read more about labs in the next section.
 |||
 
@@ -43,7 +44,7 @@ Read more about labs in the next section.
 ### Each unit typically has two or more of these features to provide variety and relevance to the learning experience. 
 
 |||topic
-**Short animations and videos:**  Help to explain detailed complex topics. Animations break the topics down into easy understandable tasks, and videos provide a human element to key points.
+**Short animations and videos:**  Help to explain detailed complex topics. Animations break the topics down into easy understandable tasks and videos provide a human element to key points.
 |||
 
  
@@ -52,11 +53,12 @@ Read more about labs in the next section.
 |||
 
 |||xdiscipline
-**Across the Disciplines:** Essays that give examples of the topic applied in another discipline. Examples are pulled from literature, language, history, mathematics, and business. 
+**Across the Disciplines:** 
+Give examples of the topic applied in another discipline. Examples are pulled from literature, language, history, mathematics, and business. 
 |||
 
 |||calendar
-**A Day in the Life of …** Career videos  from people in cybersecurity positions talking about their work.  Emphasis on women, people of color, and relatable role models so that students can picture themselves in today's cybersecurity professions.
+**A Day in the Life of …** Career videos  from people in cybersecurity positions talking about their work.  The intent is to relatable role models to help students picture themselves in today's cybersecurity professions.
 |||
 
 |||hackathon
@@ -64,8 +66,13 @@ Read more about labs in the next section.
 |||
 
 |||debugging
-**Debugging the Discipline:** Essays that break down stereotypes through fun facts or examples. They could be *did you know?* style, or could be about current events. They encourage students to consider a different viewpoint than that of the norm.
+**Debugging the Discipline:** Commentary that breaks down stereotypes through fun facts or examples. They encourage students to consider a different viewpoint than that of the norm.
 |||
 
 |||headline
 **In the News:** Points students to recent developments in the field to demonstrate the immediacy and relevance of the topic.
+|||
+
+|||guidance
+**Instructor's Note:** Viewable by instructors only, these notes offer teaching insights, answers, and optional approaches to consider for your class.
+|||

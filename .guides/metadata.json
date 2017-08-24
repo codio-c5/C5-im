@@ -14,7 +14,7 @@
   },
   {
    "id": "ed68d180-0696-b1e7-e9e8-a896e36e82ae",
-   "title": "How To Use This Manual",
+   "title": "1. How To Use This Manual",
    "files": [
     {
      "path": "#tabs",
@@ -24,7 +24,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/How-To-Use-This-Manual-ed68.md",
+   "content-file": ".guides/content/1--How-To-Use-This-Manual-ed68.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -32,11 +32,11 @@
   },
   {
    "id": "a8915326-a560-a864-536a-a3e96bf82000",
-   "title": "Module Overview- Prerequisites and Objectives",
+   "title": "2. Module Overview: Prerequisites and Objectives",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Module-Overview--Prerequisites-and-Objectives-a891.md",
+   "content-file": ".guides/content/2--Module-Overview--Prerequisites-and-Objectives-a891.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -58,12 +58,13 @@
    "id": "efe2edb5-c1ec-0e3a-8eae-02a4f9c3e278",
    "title": "Instructional Elements",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Instructional-Elements-efe2.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false,
+   "teacherOnly": true,
    "learningObjectives": ""
   },
   {
