@@ -17,7 +17,7 @@ After the pilot period, the module will also have a test item file as a part of 
  
   - **Pre-Assessment:**  Each unit opens with a pre-assessment. This assesses the knowledge of students prior to the unit learning. It is useful in classes that benchmark formative learning or in courses where students can choose to skip what they know, and focus on the topics they have yet to master. 
  - **Unit Check In:**  A set of auto-graded assessment items that cover the unit's objective domain.
- - **Points to Ponder:**  Open-ended critical thinking questions that require the instrutor to grade.
+ - **Points to Ponder:**  Open-ended critical thinking questions that require the instructor to grade.
  - **Check Your Memory:**  A set of auto-graded assessment items that review key concepts presented in prior units.
  - **Growth Hacks:** Are critical thinking questions related to the topic. Growth Hacks are not auto graded and need to be reviewed and assessed by the instructor.
   
